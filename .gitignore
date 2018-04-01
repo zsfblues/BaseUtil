@@ -1,0 +1,14 @@
+.DS_Store
+*.prefs
+.metadata
+.project
+.classpath
+*.iml
+.idea/
+target/
+*/logs/*
+logs/*
+*/.settings/*
+.#webclasspath
+*.csv
+*.pn
